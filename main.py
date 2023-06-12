@@ -1,4 +1,5 @@
-from funcs import foo
+from funcs import foo, foo2
 
 
 foo()
+foo2()
